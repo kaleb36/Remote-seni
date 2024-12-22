@@ -13,6 +13,16 @@ specifically designed for three remote sensing datasets.
 - Comprehensive evaluation of hashing-based image retrieval performance.
 - Customizable parameters for training and testing.
 
-## Results
+## Evaluation Results
+###
+| Model       | UCMD  | WHU-RS | AID   |
+|-------------|-------|--------|-------|
+| DPSH        | 0.9005| 0.8995 | 0.78  |
+| IDHN        | 0.83  | 0.81   | 0.79  |
+| GreedyHash  | 0.88  | 0.84   | 0.82  |
+| HashNet     | 0.87  | 0.83   | 0.81  |
+
 ![WHURS results](fig/Picture1.png)
+![UCMD results](fig/Picture2.png)
+![AID results](fig/Picture3.png)
 
