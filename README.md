@@ -12,3 +12,7 @@ specifically designed for three remote sensing datasets.
   - **Aerial Image Dataset (AID)**
 - Comprehensive evaluation of hashing-based image retrieval performance.
 - Customizable parameters for training and testing.
+
+## Results
+![WHURS results](fig/picture1.png)
+
