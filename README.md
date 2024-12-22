@@ -14,5 +14,5 @@ specifically designed for three remote sensing datasets.
 - Customizable parameters for training and testing.
 
 ## Results
-![WHURS results](fig/picture1.png)
+![WHURS results](fig/Picture1.png)
 
