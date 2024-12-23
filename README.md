@@ -43,5 +43,5 @@ specifically designed for three remote sensing datasets.
 ![AID results](fig/Picture3.png)
 
 ### Acknowledgement
-All code provided here can be found at [Visit GitHub page](https://github.com/swuxyj/DeepHash-pytorch.git)
+All code provided here can be found at [Visit GitHub page](https://github.com/swuxyj/DeepHash-pytorch.git)  
 Special thanks to the authors.
